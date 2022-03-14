@@ -22,7 +22,9 @@ Welcome to my GitHub!
 Hello everybody! My name is Pablo and I'm a young programmer, natural of Mos, Pontevedra. Since I was a child I have a great passion for the world of the Computers and Programming, I love the development of interfaces, in any language, I consider it an art which can improve the user experience as much as possible.
 </p>
 <p>&nbsp;</p>
+<div id="contador">
 <img src="https://komarev.com/ghpvc/?username=PabloArias98&style=flat-square&color=blue" alt=""/>
+  </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="100"/>
 </div>
