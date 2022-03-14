@@ -18,10 +18,11 @@ Welcome to my GitHub!
   </a>
 </div>
   <p>&nbsp;</p>
-<p id="contenido">
-My name is Pablo and I'm a young programmer, natural of Mos, Pontevedra. Since I was a child I have a great passion for the world of the Computers and Programming, I love the development of interfaces, in any language, I consider it an art which can improve the user experience as much as possible.
+<p id="contenido" align="center">
+Hello everybody! My name is Pablo and I'm a young programmer, natural of Mos, Pontevedra. Since I was a child I have a great passion for the world of the Computers and Programming, I love the development of interfaces, in any language, I consider it an art which can improve the user experience as much as possible.
 </p>
 <p>&nbsp;</p>
+<img src="https://komarev.com/ghpvc/?username=PabloArias98&style=flat-square&color=blue" alt=""/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="100"/>
 </div>
