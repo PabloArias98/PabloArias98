@@ -1,8 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="100"/>
 </div>
+
 <div id="header" align="center">
-  <img src="IMG-20201114-WA0072.jpeg" width="100"/>
+  <img src="PabloArias98/IMG-20201114-WA0072.jpeg" width="100"/>
 </div>
 
 <h2 align="center">
