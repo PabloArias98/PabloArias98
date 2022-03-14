@@ -1,9 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="100"/>
-</div>
+
 
 <div id="header" align="center">
-  <img src="/IMG-20201114-WA0072.jpeg" width="100"/>
+  <img src="/IMG-20201114-WA0072.jpeg" width="300"/>
 </div>
 
 <h2 align="center">
@@ -23,3 +21,7 @@ Welcome to my GitHub!
 <p id="contenido">
 My name is Pablo and I'm a young programmer, natural of Mos, Pontevedra. Since I was a child I have a great passion for the world of the Computers and Programming, I love the development of interfaces, in any language, I consider it an art which can improve the user experience as much as possible.
 </p>
+<p>&nbsp;</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="100"/>
+</div>
