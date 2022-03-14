@@ -25,9 +25,9 @@ Hello everybody! My name is Pablo and I'm a young programmer, natural of Mos, Po
 <div id="contador" align="center">
 <img src="https://komarev.com/ghpvc/?username=PabloArias98&style=flat-square&color=blue" alt=""/>
   </div>
-  <div id="estadisticas" align="center">
+ 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PabloArias98&theme=dark&background=000000)](https://git.io/streak-stats)
-  </div>
+ 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="100"/>
 </div>
