@@ -1,10 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="100"/>
 </div>
+<div id="header" align="center">
+  <img src="IMG-20201114-WA0072.jpeg" width="100"/>
+</div>
 
 <h2 align="center">
 Welcome to my GitHub!
 </h2>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pablo-arias-pampill%C3%B3n-793b5a204/">
