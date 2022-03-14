@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="/IMG-20201114-WA0072.jpeg" width="400" height="250"/>
+  <img src="/IMG-20201114-WA0072.jpeg" width="400" height="200"/>
 </div>
 
 <h2 align="center">
@@ -22,14 +22,16 @@ Welcome to my GitHub!
 Hello everybody! My name is Pablo and I'm a young programmer, natural of Mos, Pontevedra. Since I was a child I have a great passion for the world of the Computers and Programming, I love the development of interfaces, in any language, I consider it an art which can improve the user experience as much as possible.
 </p>
 <p>&nbsp;</p>
-<div id="contador" align="center">
-<img src="https://komarev.com/ghpvc/?username=PabloArias98&style=flat-square&color=blue" alt=""/>
-  </div>
- <div align="center">
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PabloArias98&theme=dark&background=000000)](https://git.io/streak-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloArias98&layout=compact&theme=vision-friendly-dark)](https://github.com/PabloArias98/github-readme-stats)
- <div>
- 
+
+<p>&nbsp;</p>
+ <div id="contador" align="center">
+<img src="https://komarev.com/ghpvc/?username=PabloArias98&style=flat-square&color=blue" alt=""/>
+</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="100"/>
 </div>
