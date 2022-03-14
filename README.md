@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="/IMG-20201114-WA0072.jpeg" width="400" height="300"/>
+  <img src="/IMG-20201114-WA0072.jpeg" width="400" height="250"/>
 </div>
 
 <h2 align="center">
