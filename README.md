@@ -27,6 +27,7 @@ Hello everybody! My name is Pablo and I'm a young programmer, natural of Mos, Po
 <p>&nbsp;</p>
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PabloArias98&theme=dark&background=000000)](https://git.io/streak-stats)
+ <p>&nbsp;</p>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloArias98&layout=compact&theme=vision-friendly-dark)](https://github.com/PabloArias98/github-readme-stats)
 
 <p>&nbsp;</p>
