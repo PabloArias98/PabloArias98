@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="/simona.gif" width="400" height="200"/>
+  <img src="/simona.gif" width="400" height="500"/>
 </div>
 
 <h2 align="center">
