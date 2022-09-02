@@ -19,7 +19,7 @@ Welcome to my GitHub!
 </div>
   <p>&nbsp;</p>
 <p id="contenido" align="center">
-Hello everybody! My name is Pablo and I'm a young programmer, natural of Mos, Pontevedra. Since I was a child I have a great passion for the world of the Computers and Programming, I love the development of interfaces, in any language, I consider it an art which can improve the user experience as much as possible.
+Hello everybody! I'm a young programmer, natural of Mos, Pontevedra. Since I was a child I have a great passion for the world of the Computers and Programming, I love the development of interfaces, in any language, I consider it an art which can improve the user experience as much as possible.
 </p>
 <p>&nbsp;</p>
 
